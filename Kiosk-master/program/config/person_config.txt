@@ -1,0 +1,50 @@
+// Config file for person card layout
+// Values are x-coordinate, y-coordinate, width, height, font (if component needs a font size)
+
+// Profile Pic
+80 80 800 800
+
+// Name
+950 160 350 80 72
+
+// Room
+950 346 350 80 72
+
+// Email
+950 532 350 80 72
+
+// Phone
+950 718 350 80 72
+
+// Class List
+80 950 500 80 56
+
+// Research
+80 1125 500 80 56
+
+// Biography
+80 1320 500 80 56
+
+// pName
+1300 160 1800 80 72
+
+// pRoom
+1300 346 1800 80 72
+
+// pEmail
+1300 532 1800 80 72
+
+// pPhone
+1300 718 1800 80 72
+
+// pClassList
+550 950 2100 160 56
+
+// pResearch
+550 1135 2100 160 56
+
+// pBiography
+550 1320 2100 500 56
+
+// Button
+2450 80 200 200 90

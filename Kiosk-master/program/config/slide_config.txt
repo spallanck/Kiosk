@@ -1,0 +1,20 @@
+// Config file for the slideshow
+// All times are in milliseconds 
+
+// Time for each slide
+20000
+
+// Time for slideshow after slide navigation
+30000
+
+// Time for slideshow to resume after going idle
+60000
+
+// Left Button
+1620 1960 150 200
+
+// Info Button
+1770 1960 300 200
+
+// Right Button
+2070 1960 150 200

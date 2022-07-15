@@ -1,0 +1,11 @@
+# Java class files
+*.class
+
+# Local config files
+*config_local.txt
+
+# jGrasp project file
+*.gpj
+
+# Final jar file - create locally
+KIOSK.jar

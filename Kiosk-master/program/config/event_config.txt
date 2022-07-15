@@ -1,0 +1,26 @@
+// Config file for event card layout
+// Values are x-coordinate, y-coordinate, width, height, font (if component needs a font size)
+
+// Event Pic
+100 80 1050 1650
+
+// Event title
+1180 100 1500 180 72
+
+// ABOUT
+1180 300 1500 450 72
+
+// Even descript
+1180 400 1500 360 56
+
+// WHEN
+1180 840 1500 450 72
+
+// event time
+1180 930 1500 180 56
+
+// WHERE
+1180 1140 1500 180 72
+
+// Event location
+1180 1230 1500 180 56

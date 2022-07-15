@@ -1,0 +1,26 @@
+// Config file for feature layouts
+// Values are x, y, w, h
+
+// Screen Width and Height
+3840 2160
+
+// Main Title
+0 0 2730 160
+
+// Sub Title
+2880 0 960 160
+
+// Main Page
+0 160 2730 1800
+
+// Sub Navigation
+2730 0 150 2160
+
+// Sub Page
+2880 160 960 1800
+
+// Main Navigation
+0 1960 2730 200
+
+// Sub Search
+2880 1960 960 200

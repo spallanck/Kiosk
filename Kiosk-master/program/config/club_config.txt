@@ -1,0 +1,17 @@
+// Config file for club
+// Values are x-coordinate, y-coordinate, width, height, font (if component needs a font size)
+
+// Club Title
+0 200 1500 300 72
+
+// ABOUT
+0 600 1500 450 72
+
+// Club description
+0 680 1500 900 56
+
+// WHEN
+0 1200 1500 180 72
+
+// Club time
+0 1280 1500 180 56

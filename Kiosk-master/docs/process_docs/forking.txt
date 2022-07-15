@@ -1,0 +1,21 @@
+Ouline for branching and merging work
+
+1: Fork master 
+   Master : (CSCI491/Kiosk)
+2: Clone fork into working repo 
+   Fork : (username/Kiosk)
+3: Create new branch for new feature
+   git checkout -b <branch name>
+4: Work on changes, commit as necessary
+5: Push commits to remote
+   remote : username/Kiosk)
+6: Create merge request on Gitlab for branch to master
+7: Code review of changes
+8: Merge is approved
+9: Pull from upstream into master branch of cloned repo
+   git checkout master
+   git pull <upstream> master
+10: Return to step 3
+
+
+Somewhere step 9: git push origin
